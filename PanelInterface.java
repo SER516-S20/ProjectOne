@@ -1,7 +1,7 @@
 /**
  * Interface to be implemented by all name panels
  * @author: Anonymous
-*/
+ */
 public interface PanelInterface {
     
     /**
