@@ -1,2 +1,0 @@
-module panel_12 {
-}
