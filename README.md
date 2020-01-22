@@ -1,10 +1,7 @@
 # ProjectOne
 The simplest project ever
 
-Ok, I will be the manager for Project 1. So this is our goal to be completed before 4:30pm on Thursday
-
-TA will be contacting you to ask for your GitHubID, share him that ASAP so he can provide you access to a GitHub repository. Your goal is to submit one and only one file to the repository by the due date. 
- 
+This is our goal to be completed before 4:30pm on Thursday
 
 You will notice in Canvas a "homework" called studentID. It has a "grade". It is not a homework and it is not a grade is just a consecutive number assigned to you. Again, it is not a "grade", it is your ID number (1 to 39). Every one of you have a unique ID. Use that number in the name of the file that you submit. There are 3 options:
  
@@ -20,13 +17,9 @@ Tab owners, could be tricky, do your best and we will talk during class. BUT sub
 Frame owner, it is OK to just change my ID (00) for yours. No work needed. BUT change the ID so you take property of the file. 
  
 
-So, what I should do
+So, what you should do:
 
 a) Have access to GitHub - MANDATORY. TA will help you Amit (apande36@asu.edu)
-
 b) Post a file to the repository (Each of YOU post the file, not your  friend)
-
 c) Name of the file Frame_XX, Panel_XX, or Tab_XX where XX is your ID. View your ID in the grade section of Canvas
-
 d) Content of your file –what we discussed in class (review the examples posted as user 0, Frame_0, Tab_0, Panel_0)
-
