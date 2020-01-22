@@ -1,0 +1,54 @@
+import javax.swing.*;
+import java.awt.*;
+import java.util.Timer;
+import java.util.TimerTask;
+
+/**
+ * Tab_XX is meant to contain the tabs of 20 people (gitIDs below)
+ * it creates a wave of "Hi"s when the tab is openend
+ *
+ * @author Anonymous
+ */
+
+public class Tab_45 extends JPanel implements TabInterface {
+       
+    //The gitIds of the students involved
+    private String[] panelNumbers = {
+            "47", "60", "71", "38",
+            "54", "74", "09", "76",
+            "33", "07", "03", "68",
+            "25", "42", "86", "13",
+            "85", "58", "36", "73"
+    };
+    private JPanel[] panels = new JPanel[20];
+    //index of next panel to display "hi"
+    private int hiDisplayIndex = 0;
+    
+    public Tab_XX() {
+        
+        setLayout(new GridLayout(5, 4));
+        for (int i = 0; i < panelNumbers.length; i++) {
+            try {
+                Class<?> panelClass = Class.forName("Panel_" + panelNumbers[i]);
+                JPanel panel = (JPanel) panelClass.getDeclaredConstructor().newInstance();
+                panels[i] = panel;
+                add(panel);
+            } catch (Exception e) {
+                addError(panelNumbers[i]);
+            }
+        }
+    }
+    
+    private void addError(String panelNumber) {
+        JPanel panel = new JPanel();
+        JLabel label = new JLabel("Panel " + panelNumber + " Error");
+        panel.add(label);
+        add(panel);
+    }
+
+    @Override
+    public String getName() {
+        return "XX NAME";
+    }
+               
+}
