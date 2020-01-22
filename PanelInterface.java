@@ -1,13 +1,12 @@
 /**
  * Interface to be implemented by all name panels
- * @author: Sarthak Tiwari
- * @since:  1/22/2019
+ * @author: Anonymous
 */
 public interface PanelInterface {
     
     /**
      * The function is to set the Hi label's visibility
-     * @param isVisible name of the pane containing tabs
+     * @param isVisible
      */
     public void sayHi(boolean isVisible);
 
