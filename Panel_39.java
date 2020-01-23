@@ -1,10 +1,9 @@
 import javax.swing.JLabel;
 
 public class Panel_39 extends PanelInterface{
-	  /**
-	 * 
+	/***
+	 * @author hzhan193
 	 */
-	private static final long serialVersionUID = 1L;
 	private JLabel label;
 	private String myName = "Hongqi Zhang";
 
