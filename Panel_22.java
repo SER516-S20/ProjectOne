@@ -1,5 +1,5 @@
-// Created by: Sandya Manoharan
-// Created date: 22/01/2020
+// @author: Sandya Manoharan
+// @date: 22/01/2020
 
 import javax.awt.*;
 import javax.swing.*;
