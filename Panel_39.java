@@ -1,4 +1,5 @@
-import javax.swing.JLabel;
+import javax.swing.*;
+import java.awt.*;
 
 public class Panel_39 extends PanelInterface{
 	/***
