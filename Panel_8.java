@@ -5,7 +5,7 @@ import java.awt.*;
  Name:Sheran Dass
  ******************/
 
-public class Panel_8 extends PanelInterface {
+public class Panel_08 extends PanelInterface {
 
   private JLabel label;
   private String myName = "Sheran Dass";
