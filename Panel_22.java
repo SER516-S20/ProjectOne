@@ -10,6 +10,6 @@ public class Panel_22 extends PanelInterface
 	private String myName="Sandya Manoharan";
 	public Panel_22()
 	{
-		super("Sandya Manoharan")
+		super("Sandya Manoharan");
 	}
 }
