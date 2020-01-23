@@ -5,7 +5,7 @@ import java.lang.reflect.Method;
 public class Frame_36 extends JFrame {
 
   private static final String FRAME_TITLE = "Sayali Tanawade";
-  private static final String[] TAB_NAMES = {"0", "27", "45"}; // IDs of your classmates doing Tabs
+  private static final String[] TAB_NAMES = {"21", "28", "30"}; // IDs of your classmates doing Tabs
 
   Frame_36() {
     this.setTitle(FRAME_TITLE);
