@@ -7,7 +7,7 @@ public class Tab_30 extends JPanel implements TabInterface{
 	private String[] panelNumbers = {
 		      "26", "27", "29", "31",
 		      "32", "33", "34", "35",
-		      "36", "37", "38", "39",
+		      "37", "38", "39",
 		  };
 	
 	private JPanel[] panels = new JPanel[15];
