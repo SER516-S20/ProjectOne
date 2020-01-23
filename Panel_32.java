@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
 
-public class Panel_32 {
+public class Panel_32 extends PanelInterface{
 
 	/*
 	* @author Rohit Kumar Singh
