@@ -6,9 +6,9 @@ public class Tab_28 extends JPanel implements TabInterface {
 
   //The gitIds of the students involved
   private String[] panelNumbers = {
-      "1", "2", "3", "4",
-      "5", "6", "24", "08",
-      "9", "10", "11", "12"
+      "01", "02", "03", "04",
+      "05", "06", "07", "08",
+      "09", "10", "11", "12"
   };
 
   private JPanel[] panels = new JPanel[12];
