@@ -1,5 +1,5 @@
-import java.swing.*;
-import java.awt.*;
+import javax.swing.*;
+import javax.awt.*;
 
 /**
 @auhor: Anusha Singh 
