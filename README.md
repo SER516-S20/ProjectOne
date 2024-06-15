@@ -19,7 +19,7 @@ Frame owner, it is OK to just change my ID (00) for yours. No work needed. BUT c
 
 So, what you should do:
 
-a) Have access to GitHub - MANDATORY. TA will help you Amit (apande36@asu.edu)
+a) Have access to GitHub - MANDATORY. TA will help you Amit
 b) Post a file to the repository (Each of YOU post the file, not your  friend)
 c) Name of the file Frame_XX, Panel_XX, or Tab_XX where XX is your ID. View your ID in the grade section of Canvas
 d) Content of your file –what we discussed in class (review the examples posted as user 0, Frame_0, Tab_0, Panel_0)
